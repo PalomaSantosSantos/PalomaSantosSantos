@@ -1,6 +1,6 @@
 # Olá! Eu sou a Paloma Santos <img src="https://i.picasion.com/pic92/6e8ed096f4a94cbdb740a40dbd9c3011.gif" width="70" height="70" border="0" alt="https://picasion.com/" /></a><br />
 
-🔭 Hoje trabalho como: back-ende (em formação)
+🔭 Hoje trabalho como: back-end (em formação)
 
 🌱 Estudando atualmente: Java
 
